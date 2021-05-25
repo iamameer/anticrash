@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-schedule": "^2.0.0"
+  },
+  "name": "anticrash",
+  "description": "LRT anticrash checker",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamameer/anticrash.git"
+  },
+  "author": "Ameer Sorne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamameer/anticrash/issues"
+  },
+  "homepage": "https://github.com/iamameer/anticrash#readme"
+}

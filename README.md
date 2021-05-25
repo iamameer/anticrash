@@ -1,2 +1,11 @@
 # anticrash
-LRT anticrash checker
+LRT anticrash checker - created for satirical purposes.
+
+## How to run
+1) Install NodeJS
+2) execute in terminal: 
+    npm install --save express
+    npm install --save node-schedule
+
+3) run in terminal: 
+    node app.js
