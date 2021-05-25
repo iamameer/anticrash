@@ -1,0 +1,2 @@
+# anticrash
+LRT anticrash checker
